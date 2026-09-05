@@ -1,0 +1,15 @@
+# Binaries
+beacond
+beacond-*
+*.exe
+
+# Local config used for testing
+beacond.yml
+*.local.yml
+
+# OS cruft
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
